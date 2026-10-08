@@ -1,3 +1,0 @@
-python-telegram-bot>=22.8,<23
-Pillow>=11.0,<13
-python-dotenv>=1.0,<2
